@@ -2,7 +2,7 @@
 
 async function fetchData() {
     try {
-        const response = await fetch('Category.json');
+        const response = await fetch('./Category.json');
         const jsonData = await response.json();
 
         // 将 JSON 数据转换为字符串并插入到 HTML 中
