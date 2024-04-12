@@ -1,15 +1,3 @@
-// 透過 XMLHttpRequest 讀取 CSV 檔案
-function loadCSV(file, callback) {
-    var xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function() {
-        if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
-            callback(xhr.responseText);
-        }
-    };
-    xhr.open("GET", file, true);
-    xhr.send();
-}
-
 // 將 CSV 資料轉換成 JSON 格式
 function csvToJSON(csv) {
     var lines = csv.split("\n");
@@ -28,20 +16,24 @@ function csvToJSON(csv) {
 
 // 主函式
 function main() {
-    loadCSV('./Category.csv', function(categoryCsv) {
-        var categoryJson = csvToJSON(categoryCsv);
+    try {
+        const categoryResponse = await fetch('Category.csv');
+        const categoryCsv = await categoryResponse.text();
+        const categoryJson = csvToJSON(categoryCsv);
         document.getElementById('json-data').innerHTML += '<h2>Category</h2><pre>' + categoryJson + '</pre>';
-    });
 
-    loadCSV('./Subcategory.csv', function(subcategoryCsv) {
-        var subcategoryJson = csvToJSON(subcategoryCsv);
+        const subcategoryResponse = await fetch('Subcategory.csv');
+        const subcategoryCsv = await subcategoryResponse.text();
+        const subcategoryJson = csvToJSON(subcategoryCsv);
         document.getElementById('json-data').innerHTML += '<h2>Subcategory</h2><pre>' + subcategoryJson + '</pre>';
-    });
 
-    loadCSV('./Course.csv', function(courseCsv) {
-        var courseJson = csvToJSON(courseCsv);
+        const courseResponse = await fetch('Course.csv');
+        const courseCsv = await courseResponse.text();
+        const courseJson = csvToJSON(courseCsv);
         document.getElementById('json-data').innerHTML += '<h2>Course</h2><pre>' + courseJson + '</pre>';
-    });
+    } catch (error) {
+        console.error('Error fetching CSV files:', error);
+    }
 }
 
 // 調用主函式
