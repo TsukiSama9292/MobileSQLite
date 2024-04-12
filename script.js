@@ -18,7 +18,7 @@ function csvToJSON(csv) {
 function main() {
     try {
         const categoryResponse = await fetch('Category.csv');
-        const categoryCsv = await categoryResponse.text();
+        const categoryCsv = await categoryResponse.text({ encoding: "UTF-8" });
         const categoryJson = csvToJSON(categoryCsv);
         document.getElementById('json-data').innerHTML += '<h2>Category</h2><pre>' + categoryJson + '</pre>';
 
