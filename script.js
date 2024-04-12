@@ -20,20 +20,31 @@ function csvToJSON(csv) {
 // 主函式
 async function main() {
     try {
+        // const jsonData = csvToJSON(/* Your CSV data here */);
+        // const jsonString = jsonData.map(obj => JSON.stringify(obj)).join(', ');
+        // document.getElementById('json-data').innerHTML = jsonString;
+
+        
         const categoryResponse = await fetch('Category_2.csv');
         const categoryCsv = await categoryResponse.text();
         const categoryJson = csvToJSON(categoryCsv);
-        document.getElementById('json-data').innerHTML += '<h2>Category</h2><pre>' + categoryJson + '</pre>';
+        const categoryString = categoryJson.map(obj => JSON.stringify(obj)).join(', ');
+        document.getElementById('json-data').innerHTML = '<pre>'+categoryString+</pre>;
+        //document.getElementById('json-data').innerHTML += '<h2>Category</h2><pre>' + categoryJson + '</pre>';
 
         const subcategoryResponse = await fetch('Subcategory.csv');
         const subcategoryCsv = await subcategoryResponse.text();
         const subcategoryJson = csvToJSON(subcategoryCsv);
-        document.getElementById('json-data').innerHTML += '<h2>Subcategory</h2><pre>' + subcategoryJson + '</pre>';
+        const subcategoryString = categoryJson.map(obj => JSON.stringify(obj)).join(', ');
+        document.getElementById('json-data').innerHTML = '<pre>'+subcategoryString+</pre>;
+        //document.getElementById('json-data').innerHTML += '<h2>Subcategory</h2><pre>' + subcategoryJson + '</pre>';
 
         const courseResponse = await fetch('Course.csv');
         const courseCsv = await courseResponse.text();
         const courseJson = csvToJSON(courseCsv);
-        document.getElementById('json-data').innerHTML += '<h2>Course</h2><pre>' + courseJson + '</pre>';
+        const courseString = categoryJson.map(obj => JSON.stringify(obj)).join(', ');
+        document.getElementById('json-data').innerHTML = '<pre>'+courseString+</pre>;
+        //document.getElementById('json-data').innerHTML += '<h2>Course</h2><pre>' + courseJson + '</pre>';
     } catch (error) {
         console.error('Error fetching CSV files:', error);
     }
