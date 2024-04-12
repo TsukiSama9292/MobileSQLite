@@ -14,7 +14,11 @@ function csvToJSON(csv) {
         }
         result.push(obj);
     }
-    return JSON.stringify(result);
+    // 移除末尾的空对象
+    while (result.length > 0 && Object.keys(result[result.length - 1]).length === 0) {
+        result.pop();
+    }
+    return result;
 }
 
 // 主函式
