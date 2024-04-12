@@ -28,17 +28,17 @@ function csvToJSON(csv) {
 
 // 主函式
 function main() {
-    loadCSV('Category.csv', function(categoryCsv) {
+    loadCSV('./Category.csv', function(categoryCsv) {
         var categoryJson = csvToJSON(categoryCsv);
         document.getElementById('json-data').innerHTML += '<h2>Category</h2><pre>' + categoryJson + '</pre>';
     });
 
-    loadCSV('Subcategory.csv', function(subcategoryCsv) {
+    loadCSV('./Subcategory.csv', function(subcategoryCsv) {
         var subcategoryJson = csvToJSON(subcategoryCsv);
         document.getElementById('json-data').innerHTML += '<h2>Subcategory</h2><pre>' + subcategoryJson + '</pre>';
     });
 
-    loadCSV('Course.csv', function(courseCsv) {
+    loadCSV('./Course.csv', function(courseCsv) {
         var courseJson = csvToJSON(courseCsv);
         document.getElementById('json-data').innerHTML += '<h2>Course</h2><pre>' + courseJson + '</pre>';
     });
