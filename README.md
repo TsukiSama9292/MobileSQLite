@@ -1,3 +1,5 @@
+# 使用方法
+透過GET URL = "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/Category.json"
 # JSON格式，JSON格式以便於SQLite儲存
 第一層分類的JSON格式 
 ```json
@@ -23,3 +25,4 @@
 
 # 使用工具
 [CSV轉JSON工具](https://jsoneditoronline.org/#right=local.zuwoha&left=local.mevomu)
+
