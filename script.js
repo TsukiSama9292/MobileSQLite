@@ -17,18 +17,18 @@ function csvToJSON(csv) {
 // 主函式
 function main() {
     try {
-        const categoryResponse = await fetch('Category.csv');
+        const categoryResponse = await fetch('Category_2.csv');
         const categoryCsv = await categoryResponse.text({ encoding: "UTF-8" });
         const categoryJson = csvToJSON(categoryCsv);
         document.getElementById('json-data').innerHTML += '<h2>Category</h2><pre>' + categoryJson + '</pre>';
 
         const subcategoryResponse = await fetch('Subcategory.csv');
-        const subcategoryCsv = await subcategoryResponse.text();
+        const subcategoryCsv = await categoryResponse.text({ encoding: "UTF-8" });
         const subcategoryJson = csvToJSON(subcategoryCsv);
         document.getElementById('json-data').innerHTML += '<h2>Subcategory</h2><pre>' + subcategoryJson + '</pre>';
 
         const courseResponse = await fetch('Course.csv');
-        const courseCsv = await courseResponse.text();
+        const courseCsv = await categoryResponse.text({ encoding: "UTF-8" });
         const courseJson = csvToJSON(courseCsv);
         document.getElementById('json-data').innerHTML += '<h2>Course</h2><pre>' + courseJson + '</pre>';
     } catch (error) {
