@@ -1,0 +1,18 @@
+{
+  "ID_TOP": 1,
+  "NAME": "AI",
+  "URL": "https://aws.amazon.com/tw/what-is/artificial-intelligence/",
+  "INTRO": "人工智慧(Artificial Intelligence，簡稱AI)是…"
+},
+{
+  "ID_TOP": 2,
+  "NAME": "程式語言",
+  "URL": "https://www.lccnet.com.tw/lccnet/article/details/2320",
+  "INTRO": "程式語言是…"
+},
+{
+  "ID_TOP": 3,
+  "NAME": "前端",
+  "URL": "https://www.yourator.co/articles/231",
+  "INTRO": "前端是…"
+}
