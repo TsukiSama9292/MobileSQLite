@@ -1,5 +1,8 @@
 // 將 CSV 資料轉換成 JSON 格式
 function csvToJSON(csv) {
+    // 刪除 \r
+    csv = csv.replace(/\r/g, '');
+    
     var lines = csv.split("\n");
     var result = [];
     var headers = lines[0].split(",");
