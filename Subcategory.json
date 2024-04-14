@@ -1,0 +1,65 @@
+[
+  {
+    "ID_TOP": 1,
+    "ID_MID": 1,
+    "NAME": "CNN",
+    "URL": "https://reurl.cc/GjkvEp",
+    "INTRO": "CNN，即卷積神經網絡（Convolutional Neural Network），是一種用於處理和分析視覺數據的深度學習模型。它在圖像識別、影像分類、物體檢測等領域表現出色。CNN 的結構受到人類視覺系統的啟發。它包含了多個卷積層（Convolutional Layer）、池化層（Pooling Layer）和全連接層（Fully Connected Layer）。這些層次之間的結構有助於模型自動學習視覺特徵，從而實現對圖像的有效分類和辨識。"
+  },
+  {
+    "ID_TOP": 1,
+    "ID_MID": 2,
+    "NAME": "RNN",
+    "URL": "https://reurl.cc/RqdgXD",
+    "INTRO": "RNN，即循環神經網絡（Recurrent Neural Network），是一種具有記憶能力的神經網絡模型。與傳統的前?神經網絡不同，RNN 具有循環連接，允許信息在神經網絡中循環傳遞。適用於語音AI，處理語音序列，用於語音識別、語音合成等應用。"
+  },
+  {
+    "ID_TOP": 1,
+    "ID_MID": 3,
+    "NAME": "LLM",
+    "URL": "https://aws.amazon.com/tw/what-is/large-language-model/",
+    "INTRO": "LLM，即大型語言模型（Large Language Models）是一類大型語言模型，通常基於深度學習技術，如Transformer模型。它們的目標是通過訓練大量的語言數據來學習語言的結構和語義，從而使得它們能夠執行各種自然語言處理任務。"
+  },
+  {
+    "ID_TOP": 2,
+    "ID_MID": 4,
+    "NAME": "Python",
+    "URL": "https://aws.amazon.com/tw/what-is/python/",
+    "INTRO": "Python 是一種簡潔易讀、功能豐富、跨平台的高級編程語言，廣泛應用於各個領域，包括科學計算、Web 開發、數據分析、人工智能等。"
+  },
+  {
+    "ID_TOP": 2,
+    "ID_MID": 5,
+    "NAME": "C++",
+    "URL": "https://zhuanlan.zhihu.com/p/561474014",
+    "INTRO": "C++是一種通用的高級程式語言，具有豐富的功能和高效的性能，廣泛用於系統軟體、遊戲開發、嵌入式系統等領域。"
+  },
+  {
+    "ID_TOP": 2,
+    "ID_MID": 6,
+    "NAME": "Java",
+    "URL": "https://reurl.cc/VzagRQ",
+    "INTRO": "Java是一種跨平台的高級程式語言，擁有強大的跨平台性和廣泛的應用範圍，特別適合於企業級應用、Web開發和移動應用開發。"
+  },
+  {
+    "ID_TOP": 3,
+    "ID_MID": 7,
+    "NAME": "HTML",
+    "URL": "https://hahow.in/contents/articles/636388d0ed902e39e57d70b3",
+    "INTRO": "HTML是一種標記語言，用於創建網頁的結構和內容，是網頁開發的基礎。"
+  },
+  {
+    "ID_TOP": 3,
+    "ID_MID": 8,
+    "NAME": "CSS",
+    "URL": "https://hahow.in/contents/articles/63638b76e00cdc3b392a8179",
+    "INTRO": "CSS是一種樣式表語言，用於控制網頁的外觀和排版，使得網頁能夠呈現出各種不同的風格和美觀的設計。"
+  },
+  {
+    "ID_TOP": 3,
+    "ID_MID": 9,
+    "NAME": "JavaScript",
+    "URL": "https://aws.amazon.com/tw/what-is/javascript/",
+    "INTRO": "JavaScript 是一種用於網頁開發的腳本語言，能夠使網頁具有動態效果、互動性和即時更新的能力，是網頁上常用的客戶端程式語言之一。"
+  }
+]
