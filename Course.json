@@ -3,7 +3,7 @@
     "ID_TOP": 1,
     "ID_MID": 1,
     "ID_COURSE": 1,
-    "SKILL": "TRUE",
+    "SKILL": 1,
     "NAME": "卷積神經網絡(CNN) - MNIST 手寫數字辨識",
     "URL": "https://nbviewer.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.7-mnist-recognition-cnn.ipynb",
     "INTRO": "CNN教學檔案(ipynb)，可用於學習CNN基礎知識，並且能累積實作經驗。"
@@ -12,7 +12,7 @@
     "ID_TOP": 1,
     "ID_MID": 1,
     "ID_COURSE": 2,
-    "SKILL": "FALSE",
+    "SKILL": 0,
     "NAME": "卷積神經網絡(CNN) - 基礎與概念",
     "URL": "https://edge.aif.tw/about-cnn/",
     "INTRO": "文章簡單介紹CNN基礎知識的網站，可用於學習CNN基礎知識。"
@@ -21,7 +21,7 @@
     "ID_TOP": 1,
     "ID_MID": 2,
     "ID_COURSE": 3,
-    "SKILL": "FALSE",
+    "SKILL": 0,
     "NAME": "遞迴神經網路(RNN) - 全面認識",
     "URL": "https://medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9F%A5%E8%AD%98%E6%AD%B7%E7%A8%8B/rnn-%E9%81%9E%E8%BF%B4%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-%E5%85%A8%E9%9D%A2%E8%AA%8D%E8%AD%98-27e4dd150bdd",
     "INTRO": "文章詳細介紹RNN的知識與缺點，文章內容較豐富，需要耐心看完。"
@@ -30,7 +30,7 @@
     "ID_TOP": 1,
     "ID_MID": 2,
     "ID_COURSE": 4,
-    "SKILL": "TRUE",
+    "SKILL": 0,
     "NAME": "遞迴神經網路(RNN) - 情意分析",
     "URL": "https://github.com/yenlung/Deep-Learning-MOOC/blob/master/04-1.%20%E7%94%A8RNN%E5%81%9A%E6%83%85%E6%84%8F%E5%88%86%E6%9E%90.ipynb",
     "INTRO": "來自政大MOOCs自學課程的RNN教學檔案，非常適合學習RNN實作。"
@@ -39,7 +39,7 @@
     "ID_TOP": 1,
     "ID_MID": 3,
     "ID_COURSE": 5,
-    "SKILL": "TRUE",
+    "SKILL": 0,
     "NAME": "大型語言模型(LLM) - 量化(Quantization) bitsandbytes 與 GPTQ",
     "URL": "https://ithelp.ithome.com.tw/m/articles/10330372",
     "INTRO": "文章介紹量化基礎知識與其程式碼，非常適合對LLM零基礎的小白。"
@@ -48,7 +48,7 @@
     "ID_TOP": 1,
     "ID_MID": 3,
     "ID_COURSE": 6,
-    "SKILL": "TRUE",
+    "SKILL": 0,
     "NAME": "大型語言模型(LLM) - 量化微調 QLoRA",
     "URL": "https://www.youtube.com/watch?v=XpoKB3usmKc",
     "INTRO": "影片中，詳細介紹QLoRA技術用途，並且提供程式範例，非常適合對QLoRA零基礎的小白。"
