@@ -52,5 +52,14 @@
     "NAME": "大型語言模型(LLM) - 量化微調 QLoRA",
     "URL": "https://www.youtube.com/watch?v=XpoKB3usmKc",
     "INTRO": "影片中，詳細介紹QLoRA技術用途，並且提供程式範例，非常適合對QLoRA零基礎的小白。"
+  },
+  {
+    "ID_TOP": 1,
+    "ID_MID": 1,
+    "ID_COURSE": 7,
+    "SKILL": 1,
+    "NAME": "卷積神經網絡(CNN) - 貓狗識別",
+    "URL": "https://reurl.cc/qVDjqE",
+    "INTRO": "影片中，詳細介紹QLoRA技術用途，並且提供程式範例，非常適合對QLoRA零基礎的小白。"
   }
 ]
