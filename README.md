@@ -1,5 +1,8 @@
 # 使用方法
-透過GET URL = "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/Category.json"
+### 網路請求方法-分類與課程(URL設定範例)  
+URL = "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/Category.json"
+### 網路請求方法-圖片(URL設定範例)  
+URL = "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/Algorithm_Notes.png"
 # JSON格式，JSON格式以便於SQLite儲存
 ### 第一層分類的JSON格式 
 ```json
