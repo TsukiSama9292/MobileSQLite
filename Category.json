@@ -2,19 +2,36 @@
   {
     "ID_TOP": 1,
     "NAME": "AI",
-    "URL": "https://aws.amazon.com/tw/what-is/artificial-intelligence/",
+    "URL": "https://www.youtube.com/watch?v=fsF0WKgdTys",
+    "Image":"https://img.youtube.com/vi/fsF0WKgdTys/0.jpg",
     "INTRO": "人工智慧（Artificial Intelligence，簡稱AI）是模擬人類智能的一種技術。它涉及了構建能夠執行任務的計算機系統，這些任務通常需要人類智能的特徵，例如學習、推理、問題解決和自適應。AI的目標是使計算機系統能夠執行類似於人類的智能行為，從而模仿或甚至超越人類的能力。在AI的發展過程中，涉及到了許多子領域，如機器學習、自然語言處理、計算機視覺、專家系統等。這些領域的發展使得AI技術得以應用於各個領域，包括醫療保健、金融、交通、教育等，為社會帶來了巨大的改變和發展。"
   },
   {
     "ID_TOP": 2,
     "NAME": "程式語言",
-    "URL": "https://www.lccnet.com.tw/lccnet/article/details/2320",
-    "INTRO": "程式語言是…"
+    "URL": "https://www.youtube.com/watch?v=bH7dRlbEDJY",
+    "Image":"https://img.youtube.com/vi/bH7dRlbEDJY/0.jpg",
+    "INTRO": "程式語言是用來編寫和開發計算機程序的工具，通過特定的語法和結構，讓開發者能夠向計算機發出指令。常見的程式語言包括Python、Java、C++、JavaScript等。每種語言都有其特定的應用領域和優勢，例如Python以簡潔和易學著稱，廣泛應用於數據分析和人工智慧；Java則以跨平台能力強和穩定性高而受到企業級應用的青睞；C++因其高效性能常用於系統軟件和遊戲開發；JavaScript是網頁開發的核心語言，負責實現網頁的互動效果。程式語言的選擇取決於具體的開發需求和項目目標。"
   },
   {
     "ID_TOP": 3,
     "NAME": "前端",
-    "URL": "https://www.yourator.co/articles/231",
-    "INTRO": "前端是…"
+    "URL": "https://www.youtube.com/watch?v=G-Ks1XYGyaY",
+    "Image":"https://img.youtube.com/vi/G-Ks1XYGyaY/0.jpg",
+    "INTRO": "前端（Client Side）是指網站或應用程式中在用戶瀏覽器上運行的部分。前端開發主要涉及HTML、CSS和JavaScript這三種核心技術。HTML用於構建網頁的結構，CSS負責網頁的樣式和布局，而JavaScript則賦予網頁互動性和動態效果。前端開發者還常使用框架和庫，如React、Angular和Vue.js，以提高開發效率和代碼的可維護性。前端的目標是提供良好的用戶體驗，確保網頁在不同設備和瀏覽器上的一致性和響應速度。隨著技術的進步，前端開發不僅僅是靜態網頁的構建，更涉及到複雜的單頁應用和進階的用戶交互功能。"
+  },
+  {
+    "ID_TOP": 4,
+    "NAME": "後端",
+    "URL": "https://www.youtube.com/watch?v=G-Ks1XYGyaY",
+    "Image":"https://img.youtube.com/vi/G-Ks1XYGyaY/0.jpg",
+    "INTRO": "後端（Server Side）是指在伺服器上運行的部分，負責處理應用程式的邏輯、數據庫操作和伺服器配置。後端技術通常包括程式語言如Java、Python、Ruby、PHP等，以及框架如Spring、Django、Rails和Laravel。後端開發者設計和維護數據庫（如MySQL、PostgreSQL、MongoDB），確保數據的可靠存儲和檢索。此外，後端還涉及伺服器管理、安全性、認證和授權等方面。API（應用程式介面）是後端與前端溝通的橋梁，通過HTTP請求實現數據交換。後端的目標是確保系統的穩定性、高效性和安全性，並為前端提供可靠的支持。"
+  },
+  {
+    "ID_TOP": 5,
+    "NAME": "版本控制工具",
+    "URL": "https://www.youtube.com/watch?v=N6YQlPuAamw",
+    "Image":"https://img.youtube.com/vi/N6YQlPuAamw/0.jpg",
+    "INTRO": "版本控制工具是用來管理和追蹤程式碼變更的軟體，幫助開發團隊協作和維護代碼歷史。常見的版本控制工具包括Git、Subversion（SVN）和Mercurial。Git是目前最流行的工具，因其分散式架構允許每個開發者擁有完整的代碼庫副本，提高了協作效率和數據安全性。使用版本控制工具，開發者可以記錄每次變更，並在需要時回溯到之前的版本。此外，這些工具支持分支管理，允許開發者同時進行多項開發工作，並在完成後合併代碼。版本控制工具還提供了協作功能，例如代碼審查、合併請求和衝突解決，確保團隊成員能夠高效且有序地協同工作。"
   }
 ]

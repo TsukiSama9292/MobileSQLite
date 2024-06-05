@@ -3,63 +3,112 @@
     "ID_TOP": 1,
     "ID_MID": 1,
     "NAME": "CNN",
-    "URL": "https://reurl.cc/GjkvEp",
+    "URL": "https://www.youtube.com/watch?v=4-IR8kOrtoY",
+    "Image":"https://img.youtube.com/vi/4-IR8kOrtoY/0.jpg",
     "INTRO": "CNN，即卷積神經網絡（Convolutional Neural Network），是一種用於處理和分析視覺數據的深度學習模型。它在圖像識別、影像分類、物體檢測等領域表現出色。CNN 的結構受到人類視覺系統的啟發。它包含了多個卷積層（Convolutional Layer）、池化層（Pooling Layer）和全連接層（Fully Connected Layer）。這些層次之間的結構有助於模型自動學習視覺特徵，從而實現對圖像的有效分類和辨識。"
   },
   {
     "ID_TOP": 1,
     "ID_MID": 2,
     "NAME": "RNN",
-    "URL": "https://reurl.cc/RqdgXD",
+    "URL": "https://www.youtube.com/watch?v=EEtf4kNsk7Q",
+    "Image":"https://img.youtube.com/vi/EEtf4kNsk7Q/0.jpg", 
     "INTRO": "RNN，即循環神經網絡（Recurrent Neural Network），是一種具有記憶能力的神經網絡模型。與傳統的前?神經網絡不同，RNN 具有循環連接，允許信息在神經網絡中循環傳遞。適用於語音AI，處理語音序列，用於語音識別、語音合成等應用。"
   },
   {
     "ID_TOP": 1,
     "ID_MID": 3,
     "NAME": "LLM",
-    "URL": "https://aws.amazon.com/tw/what-is/large-language-model/",
+    "URL": "https://www.youtube.com/watch?v=ERr6J1bDXUI",
+    "Image":"https://img.youtube.com/vi/ERr6J1bDXUI/0.jpg",
     "INTRO": "LLM，即大型語言模型（Large Language Models）是一類大型語言模型，通常基於深度學習技術，如Transformer模型。它們的目標是通過訓練大量的語言數據來學習語言的結構和語義，從而使得它們能夠執行各種自然語言處理任務。"
   },
   {
     "ID_TOP": 2,
     "ID_MID": 4,
     "NAME": "Python",
-    "URL": "https://aws.amazon.com/tw/what-is/python/",
-    "INTRO": "Python 是一種簡潔易讀、功能豐富、跨平台的高級編程語言，廣泛應用於各個領域，包括科學計算、Web 開發、數據分析、人工智能等。"
+    "URL": "https://www.youtube.com/watch?v=MQdIxqxnAew",
+    "Image":"https://img.youtube.com/vi/MQdIxqxnAew/0.jpg",
+    "INTRO": "Python是一種高級、解釋型的程式語言，以其簡潔和易讀的語法設計著稱。由Guido van Rossum於1991年創建，Python適合多種編程任務，包括網頁開發、數據分析、人工智慧和自動化腳本。Python擁有豐富的標準庫和第三方模組，這使得開發者能夠快速構建和部署應用程式。Django和Flask是流行的Python網頁框架，NumPy和Pandas則是數據科學中的重要工具。Python還因其跨平台特性和強大的社區支持而廣受歡迎，是初學者和專業開發者的首選語言。無論是在學術研究還是商業應用中，Python都展現了其強大的靈活性和高效性。"
   },
   {
     "ID_TOP": 2,
     "ID_MID": 5,
     "NAME": "C++",
-    "URL": "https://zhuanlan.zhihu.com/p/561474014",
-    "INTRO": "C++是一種通用的高級程式語言，具有豐富的功能和高效的性能，廣泛用於系統軟體、遊戲開發、嵌入式系統等領域。"
+    "URL": "https://www.youtube.com/watch?v=eUao6ipVoyo",
+    "Image":"https://img.youtube.com/vi/eUao6ipVoyo/0.jpg",
+    "INTRO": "C++是一種強大且高效的程式語言，由Bjarne Stroustrup於1980年代開發，基於C語言並加入了面向對象編程的特性。C++廣泛應用於系統軟體、遊戲開發、嵌入式系統和高性能計算等領域。其語法靈活，既支持低級內存操作，又具備高級抽象能力，讓開發者能夠精確控制硬件資源，同時構建複雜的應用程式。C++標準庫（STL）提供了豐富的數據結構和算法，加速開發過程。此外，C++還具有跨平台特性，能夠在不同的操作系統上編譯和運行。儘管C++的學習曲線較陡，但其性能和多樣性使其成為許多關鍵應用的首選語言。"
   },
   {
     "ID_TOP": 2,
     "ID_MID": 6,
     "NAME": "Java",
-    "URL": "https://reurl.cc/VzagRQ",
-    "INTRO": "Java是一種跨平台的高級程式語言，擁有強大的跨平台性和廣泛的應用範圍，特別適合於企業級應用、Web開發和移動應用開發。"
+    "URL": "https://www.youtube.com/watch?v=P96rRoC8TQc",
+    "Image":"https://img.youtube.com/vi/P96rRoC8TQc/0.jpg",
+    "INTRO": "Java是一種面向對象的高級程式語言，由Sun Microsystems（現屬於Oracle）於1995年推出。Java以其跨平台特性著稱，通過Java虛擬機（JVM）實現“一次編寫，處處運行”。Java廣泛應用於企業級應用、Android移動應用開發、網頁應用和大數據技術。其語法嚴謹、類庫豐富，並提供了強大的內建安全性和多線程支持。Java的標準庫（JDK）涵蓋了網絡、I/O、數據庫連接等多種功能，使開發者能夠高效構建穩定和高性能的應用程式。Java社區活躍，資源豐富，是全球最受歡迎的程式語言之一。"
   },
   {
     "ID_TOP": 3,
     "ID_MID": 7,
     "NAME": "HTML",
-    "URL": "https://hahow.in/contents/articles/636388d0ed902e39e57d70b3",
-    "INTRO": "HTML是一種標記語言，用於創建網頁的結構和內容，是網頁開發的基礎。"
+    "URL": "https://www.youtube.com/watch?v=3JOZssAkf2U",
+    "Image":"https://img.youtube.com/vi/3JOZssAkf2U/0.jpg",
+    "INTRO": "HTML（超文本標記語言）是構建網頁的基本語言，由標記符號組成，用於描述網頁的結構和內容。HTML標籤用來定義各種元素，如標題、段落、圖像和連結。這些標籤被瀏覽器解讀，顯示為人類可讀的網頁。HTML是萬維網的基礎技術之一，與CSS和JavaScript共同構成前端技術棧。HTML5是最新版本，增加了許多新功能，如音視頻嵌入、圖形繪制和離線存儲，提升了網頁的互動性和多媒體支持能力。"
   },
   {
     "ID_TOP": 3,
     "ID_MID": 8,
     "NAME": "CSS",
-    "URL": "https://hahow.in/contents/articles/63638b76e00cdc3b392a8179",
-    "INTRO": "CSS是一種樣式表語言，用於控制網頁的外觀和排版，使得網頁能夠呈現出各種不同的風格和美觀的設計。"
+    "URL": "https://www.youtube.com/watch?v=3JOZssAkf2U",
+    "Image":"https://img.youtube.com/vi/3JOZssAkf2U/0.jpg",
+    "INTRO": "CSS（層疊樣式表）是一種用於描述HTML文件外觀和格式的語言，主要用來控制網頁的佈局、顏色、字體等視覺效果。通過CSS，開發者可以將樣式與內容分離，實現網頁設計的一致性和可維護性。CSS的選擇器、屬性和值使得開發者能夠精確控制頁面元素的呈現。CSS3是最新版本，引入了動畫、過渡、彈性佈局等強大功能，極大地豐富了網頁設計的表現力，提升了用戶體驗和交互效果。"
   },
   {
     "ID_TOP": 3,
     "ID_MID": 9,
-    "NAME": "JavaScript",
-    "URL": "https://aws.amazon.com/tw/what-is/javascript/",
-    "INTRO": "JavaScript 是一種用於網頁開發的腳本語言，能夠使網頁具有動態效果、互動性和即時更新的能力，是網頁上常用的客戶端程式語言之一。"
+    "NAME": " ",
+    "URL": "https://www.youtube.com/watch?v=3JOZssAkf2U",
+    "Image":"https://img.youtube.com/vi/3JOZssAkf2U/0.jpg",
+    "INTRO": "JavaScript是一種高級、解釋型的程式語言，主要用於網頁開發，賦予靜態網頁動態行為。由Netscape於1995年開發，JavaScript現在是前端技術的核心之一。它能夠操控DOM，處理事件，進行異步通信（如AJAX），並創建豐富的用戶交互。隨著Node.js的出現，JavaScript也被廣泛應用於伺服器端開發。JavaScript的生態系統豐富，包括各種框架和庫，如React、Angular、Vue.js，極大地提高了開發效率和應用程式的性能。"
+  },
+  {
+    "ID_TOP": 4,
+    "ID_MID": 10,
+    "NAME": "DataBase",
+    "URL": "https://www.youtube.com/watch?v=6HDqcVn_tIo",
+    "Image":"https://img.youtube.com/vi/6HDqcVn_tIo/0.jpg",
+    "INTRO": "資料庫（Database）是用於存儲、管理和檢索數據的系統。資料庫系統分為關係型（如MySQL、PostgreSQL）和非關係型（如MongoDB、Cassandra）。關係型資料庫使用表格存儲數據，通過SQL進行查詢，適合結構化數據。非關係型資料庫則靈活性更高，適合處理大規模和非結構化數據。資料庫管理系統（DBMS）提供數據庫的創建、維護、備份和安全功能。資料庫在企業應用、網站、數據分析等領域具有重要作用，確保數據的可靠性、一致性和高效性。"
+  },
+  {
+    "ID_TOP": 2,
+    "ID_MID": 11,
+    "NAME": "C",
+    "URL": "https://www.youtube.com/watch?v=jVlTNRSoDY4",
+    "Image":"https://img.youtube.com/vi/jVlTNRSoDY4/0.jpg",
+    "INTRO": "C語言是一種通用、高效的程式語言，由Dennis Ritchie於1970年代在貝爾實驗室開發。C語言具有結構化編程、低級記憶體操作和高性能等特點，常用於系統軟體、嵌入式系統和應用程式開發。C語言的語法簡潔但功能強大，提供了豐富的運算符和資料結構。許多現代程式語言如C++、Java和Python都直接或間接地從C語言衍生而來。C語言的標準庫（C標準函數庫）提供了豐富的功能模組，支持文件操作、數學運算、字符處理等常見任務。"
+  },
+  {
+    "ID_TOP": 5,
+    "ID_MID": 12,
+    "NAME": "Git",
+    "URL": "https://www.youtube.com/watch?v=2ReR1YJrNOM",
+    "Image":"https://img.youtube.com/vi/2ReR1YJrNOM/0.jpg",
+    "INTRO": "Git是一種分散式版本控制系統，由Linus Torvalds於2005年開發，用於管理程式碼變更和協作開發。Git的分散式架構允許每個開發者擁有完整的代碼庫副本，提升了開發靈活性和數據安全性。常用操作包括提交（commit）、分支（branch）、合併（merge）和拉取請求（pull request）。GitHub和GitLab等平台基於Git，提供了代碼託管、協作工具和CI/CD集成功能。Git強大的版本控制和分支管理能力，使其成為軟體開發中的重要工具。"
+  },
+  {
+    "ID_TOP": 4,
+    "ID_MID": 13,
+    "NAME": "Django",
+    "URL": "https://www.youtube.com/watch?v=W40mDCqWyYo",
+    "Image":"https://img.youtube.com/vi/W40mDCqWyYo/0.jpg",
+    "INTRO": "Django是一個高級Python網頁框架，由Adrian Holovaty和Simon Willison於2005年開發，旨在簡化和加速Web應用開發。Django遵循“DRY”（Don't Repeat Yourself）和“MTV”（Model-Template-View）設計模式，內建管理後台、認證系統、URL路由等功能，極大地提高了開發效率。其ORM（對象關係映射）系統簡化了數據庫操作，模板系統則使HTML生成更方便。Django社區活躍，擁有豐富的插件和擴展，是構建穩定、安全的Web應用的理想選擇。"
+  },
+  {
+    "ID_TOP": 4,
+    "ID_MID": 14,
+    "NAME": "Bootstrap",
+    "URL": "https://www.youtube.com/watch?v=AaVy9UR30Dc",
+    "Image":"https://img.youtube.com/vi/AaVy9UR30Dc/0.jpg",
+    "INTRO": "Bootstrap是一個流行的前端框架，由Twitter開發並於2011年開源，用於快速設計響應式和移動優先的網站。Bootstrap提供了豐富的CSS和JavaScript元件，如導航欄、按鈕、表格、模態框等，並預設了美觀的樣式。其網格系統允許開發者輕鬆地創建響應式佈局，適應不同設備和螢幕尺寸。Bootstrap的文檔詳盡，社區支持廣泛，使其成為前端開發者的首選工具，能夠顯著提高開發速度和一致性。"
   }
 ]
