@@ -57,4 +57,4 @@ SKILL : 分類是否為學習技巧的資源，0為否，1為是，資料型態(
 NAME : 顯示名稱，資料型態(String)  
 URL : 介紹的影片連結，資料型態(String)  
 Image : 網站或影片縮圖連結，資料型態(String)  
-INTRO : 文本介紹(ChatGPT-4o生成)，資料型態(String)  
+INTRO : 文本介紹(人工輸入)，資料型態(String)  
