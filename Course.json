@@ -28,7 +28,7 @@
     "SKILL": 0,
     "NAME": "遞迴神經網路(RNN) - 全面認識",
     "URL": "https://medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9F%A5%E8%AD%98%E6%AD%B7%E7%A8%8B/rnn-%E9%81%9E%E8%BF%B4%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-%E5%85%A8%E9%9D%A2%E8%AA%8D%E8%AD%98-27e4dd150bdd",
-    "Image": "RNN_concept",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/RNN_concept",
     "URL_TYPE": 1,
     "INTRO": "文章詳細介紹RNN的知識與缺點，文章內容較豐富，需要耐心看完。"
   },
@@ -39,7 +39,7 @@
     "SKILL": 0,
     "NAME": "遞迴神經網路(RNN) - 情意分析",
     "URL": "https://github.com/yenlung/Deep-Learning-MOOC/blob/master/04-1.%20%E7%94%A8RNN%E5%81%9A%E6%83%85%E6%84%8F%E5%88%86%E6%9E%90.ipynb",
-    "Image": "RNN_SentimentAnalysis",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/RNN_SentimentAnalysis",
     "URL_TYPE": 1,
     "INTRO": "來自政大MOOCs自學課程的RNN教學檔案，非常適合學習RNN實作。"
   },
@@ -50,7 +50,7 @@
     "SKILL": 0,
     "NAME": "大型語言模型(LLM) - 量化(Quantization) bitsandbytes 與 GPTQ",
     "URL": "https://ithelp.ithome.com.tw/m/articles/10330372",
-    "Image": "LLM_Quantization",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/LLM_Quantization",
     "URL_TYPE": 1,
     "INTRO": "文章介紹量化基礎知識與其程式碼，非常適合對LLM零基礎的小白。"
   },
@@ -72,7 +72,7 @@
     "SKILL": 1,
     "NAME": "卷積神經網絡(CNN) - 貓狗識別",
     "URL": "https://reurl.cc/qVDjqE",
-    "Image": "CNN_DogCat",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/CNN_DogCat",
     "URL_TYPE": 1,
     "INTRO": "影片中，詳細介紹QLoRA技術用途，並且提供程式範例，非常適合對QLoRA零基礎的小白。"
   },
@@ -83,7 +83,7 @@
     "SKILL": 1,
     "NAME": "演算法筆記",
     "URL": "https://web.ntnu.edu.tw/~algo/",
-    "Image": "Algorithm_Notes",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/Algorithm_Notes",
     "URL_TYPE": 1,
     "INTRO": "主要以C++介紹各種演算法與資料結構"
   },
@@ -94,7 +94,7 @@
     "SKILL": 1,
     "NAME": "HTML Tutorial",
     "URL": "https://www.w3schools.com/html/default.asp",
-    "Image": "HTML_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/HTML_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "HTML教學，有填空測試可以練習"
   },
@@ -105,7 +105,7 @@
     "SKILL": 1,
     "NAME": "CSS Tutorial",
     "URL": "https://www.w3schools.com/css/default.asp",
-    "Image": "CSS_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/CSS_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "CSS教學，有填空測試可以練習"
   },
@@ -116,7 +116,7 @@
     "SKILL": 1,
     "NAME": "JavaScript Tutorial",
     "URL": "https://www.w3schools.com/js/default.asp",
-    "Image": "JavaScript_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/JavaScript_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "JavaScript教學，有填空測試可以練習"
   },
@@ -127,7 +127,7 @@
     "SKILL": 1,
     "NAME": "SQL Tutorial",
     "URL": "https://www.w3schools.com/sql/default.asp",
-    "Image": "SQL_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/SQL_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "SQL教學，有填空測試可以練習"
   },
@@ -138,7 +138,7 @@
     "SKILL": 1,
     "NAME": "MySQL Tutorial",
     "URL": "https://www.w3schools.com/mysql/default.asp",
-    "Image": "MySQL_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/MySQL_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "MYSQL教學，有填空測試可以練習"
   },
@@ -149,7 +149,7 @@
     "SKILL": 1,
     "NAME": "C++ Tutorial",
     "URL": "https://www.w3schools.com/cpp/default.asp",
-    "Image": "C++_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/C++_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "C++教學，有填空測試可以練習"
   },
@@ -160,7 +160,7 @@
     "SKILL": 1,
     "NAME": "Python Tutorial",
     "URL": "https://www.w3schools.com/python/default.asp",
-    "Image": "Python_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/Python_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "Python教學，有填空測試可以練習"
   },
@@ -171,7 +171,7 @@
     "SKILL": 1,
     "NAME": "Java Tutorial",
     "URL": "https://www.w3schools.com/java/default.asp",
-    "Image": "Java_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/Java_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "Java教學，有填空測試可以練習"
   },
@@ -182,7 +182,7 @@
     "SKILL": 1,
     "NAME": "C Tutorial",
     "URL": "https://www.w3schools.com/c/index.php",
-    "Image": "C_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/C_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "C教學，有填空測試可以練習"
   },
@@ -192,7 +192,7 @@
     "ID_COURSE": 18,
     "SKILL": 1,
     "NAME": "Git Tutorial",
-    "Image": "C_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/C_Tutorial",
     "URL_TYPE": 1,
     "URL": "https://www.w3schools.com/git/default.asp",
     "INTRO": "Git教學，有填空測試可以練習"
@@ -204,7 +204,7 @@
     "SKILL": 1,
     "NAME": "Django Tutorial",
     "URL": "https://www.w3schools.com/django/index.php",
-    "Image": "Django_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/Django_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "Django教學，有填空測試可以練習"
   },
@@ -215,7 +215,7 @@
     "SKILL": 1,
     "NAME": "Bootstrap 3 Tutorial",
     "URL": "https://www.w3schools.com/bootstrap/default.asp",
-    "Image": "Bootstrap3_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/Bootstrap3_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "Bootstrap 3教學，可以練習"
   },
@@ -226,7 +226,7 @@
     "SKILL": 1,
     "NAME": "Bootstrap 4 Tutorial",
     "URL": "https://www.w3schools.com/bootstrap4/default.asp",
-    "Image": "Bootstrap4_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/Bootstrap4_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "Bootstrap 4教學，可以練習"
   },
@@ -237,7 +237,7 @@
     "SKILL": 1,
     "NAME": "Bootstrap 5 Tutorial",
     "URL": "https://www.w3schools.com/bootstrap5/index.php",
-    "Image": "Bootstrap5_Tutorial",
+    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/Bootstrap5_Tutorial",
     "URL_TYPE": 1,
     "INTRO": "Bootstrap 5教學，可以練習"
   }
