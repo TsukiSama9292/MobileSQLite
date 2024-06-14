@@ -6,7 +6,7 @@
     "SKILL": 1,
     "NAME": "卷積神經網絡(CNN) - MNIST 手寫數字辨識",
     "URL": "https://nbviewer.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.7-mnist-recognition-cnn.ipynb",
-    "Image": "https://raw.githubusercontent.com/TsukiSama9292/MobileSQLite/main/img/CNN_MNIST.png",
+    "Image": "https://drive.google.com/file/d/1tzkNQjTRjvb4czo9myDWSX6I3cJxuGOS/view?usp=sharing",
     "URL_TYPE": 1,
     "INTRO": "CNN教學檔案(ipynb)，可用於學習CNN基礎知識，並且能累積實作經驗。"
   },
