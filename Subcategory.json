@@ -66,7 +66,7 @@
   {
     "ID_TOP": 3,
     "ID_MID": 9,
-    "NAME": " ",
+    "NAME": "JavaScript",
     "URL": "https://www.youtube.com/watch?v=3JOZssAkf2U",
     "Image":"https://img.youtube.com/vi/3JOZssAkf2U/0.jpg",
     "INTRO": "JavaScript是一種高級、解釋型的程式語言，主要用於網頁開發，賦予靜態網頁動態行為。由Netscape於1995年開發，JavaScript現在是前端技術的核心之一。它能夠操控DOM，處理事件，進行異步通信（如AJAX），並創建豐富的用戶交互。隨著Node.js的出現，JavaScript也被廣泛應用於伺服器端開發。JavaScript的生態系統豐富，包括各種框架和庫，如React、Angular、Vue.js，極大地提高了開發效率和應用程式的性能。"
